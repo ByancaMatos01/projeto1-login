@@ -37,11 +37,11 @@ Adicione aqui uma imagem do projeto:
 
 ## 📂 Estrutura do Projeto
 
-├── index.html
-├── style.css
-├── img/
-│ └── background.png
-└── README.md
+`├── index.html`
+`├── style.css`
+`├── img/`
+`│ └── background.png`
+`└── README.md`
 
 ---
 ## 🎨 Conceitos Aplicados
