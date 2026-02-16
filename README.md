@@ -7,7 +7,7 @@ O projeto foi desenvolvido utilizando **HTML5 e CSS3**, com foco em design moder
 
 ## 📸 Preview
 
-Adicione aqui uma imagem do projeto:
+ imagem do projeto:
 
 ![Preview do Projeto](./preview.png)
 
