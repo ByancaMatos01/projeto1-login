@@ -16,7 +16,6 @@ O projeto foi desenvolvido utilizando **HTML5 e CSS3**, com foco em design moder
 ## 🚀 Funcionalidades
 
 - 🌌 Background com gradiente roxo
-- ✨ Efeito de estrelas
 - 🌲 Silhueta de montanhas e árvores
 - 🪟 Card com efeito Glassmorphism
 - 🔐 Campos com ícones
